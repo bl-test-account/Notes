@@ -1,51 +1,51 @@
 .container {
-    position: relative;
-    width: 100%;
-    color: rgb(50, 50, 50);
-    height: auto
+  position: relative;
+  width: 100%;
+  color: rgb(50, 50, 50);
+  height: auto
 }
 
 .text {
-    padding-top: 20px;
-    width: 70%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 25px;
+  padding-top: 20px;
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
 }
 
 .author {
-    margin-top: 10px;
-    color: rgb(100, 100, 100);
-    float: right;
-    margin-right: 20%;
-    font-size: 25px;
+  margin-top: 10px;
+  color: rgb(100, 100, 100);
+  float: right;
+  margin-right: 20%;
+  font-size: 25px;
 }
 
 .quote {
-    position: absolute;
-    top: 0;
-    width: 25px;
-    height: 25px;
-    margin: 0;
-    font-size: 50px;
-    font-family: Verdana !important;
-    font-weight: normal;
+  position: absolute;
+  top: 0;
+  width: 25px;
+  height: 25px;
+  margin: 0;
+  font-size: 50px;
+  font-family: Verdana !important;
+  font-weight: normal;
 }
 
 .left-quote {
-    left: 8px;
+  left: 8px;
 }
 
 .right-quote {
-    right: 8px;
-    text-align: right;
+  right: 8px;
+  text-align: right;
 }
 
 p {
-    margin: 0;
+  margin: 0;
 }
 
 html, body {
-    margin: 0;
+  margin: 0;
 }
